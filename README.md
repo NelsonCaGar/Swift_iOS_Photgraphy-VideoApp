@@ -1,18 +1,12 @@
 
 <p align="center">
-  <img src="https://github.com/enjelhutasoit/captry/blob/master/Captry/Assets.xcassets/AppIcon.appiconset/Icon.png" width="200" height="200" alt="hay" />
+  <img src="https://github.com/nelsongarx/Swift_iOS_Photgraphy-VideoApp/blob/master/Captry/Assets.xcassets/AppIcon.appiconset/Icon.png" width="200" height="200" alt="hay" />
 </p>
 
 <h1 align="center">
   <strong>CAPTRY</strong>
 </h1>
 
-
-
-<p align="center">
-  </a>&nbsp;&nbsp;&nbsp;<a href="mailto:enjel.hutasoit@gmail.com"><img src="https://img.shields.io/badge/Email-enjel.hutasoit@gmail.com-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/enjelhutasoit" target="_blank"><img src="https://img.shields.io/badge/linkedin-enjelhutasoit-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" >  
-</a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/enjelhutasoit" target="_blank"><img src="https://img.shields.io/badge/twitter-enjelhutasoit-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
 
 
 
@@ -62,23 +56,15 @@ All design element e.g:
 - [x] Iconography
 - [x] Logo
 
-You can find the details on [dribbble.com/enjelhutasoit](https://dribbble.com/enjelhutasoit)
-
 ## TO-DO LIST 
 For next development, here are a real quick features to do:
 - [ ] Add more guideline camera
 - [ ] Add more content
 
 ## CONTACT
-Build by me ([Enjel Hutasoit](http://github.com/enjelhutasoit)) and **Captry Team**. 
+Build by me ([Nelson Garcia](http://github.com/nelsongarx)) and **Captry Team**. 
 In this project I worked as a coder/developer.
 
 **Note:**<br>
 The last but not least, feel free to connect with me on:
 
-- [ ] https://enjelhutasoit.com 
-- [ ] https://twitter.com/enjelhutasoit 
-- [ ] https://instagram.com/enjelhutasoit 
-- [ ] https://linkedin.com/in/enjelhutasoit
-
-See ya!
